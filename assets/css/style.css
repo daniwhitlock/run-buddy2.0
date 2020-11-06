@@ -255,8 +255,11 @@ section {
   margin: 15px;
 }
 
+#reach-out {
+  background-color: #024e76;
+}
 .contact-info {
-  background: #024e76;
+  /* background: #024e76;  took out since I have it in #reachout but want to keep here in case I need to change classes again  */
   margin: 20px 0;
   line-height: 1.5;
   font-size: 20px;
@@ -312,9 +315,7 @@ section {
   height: 400px;
 }
 
-#reach-out {
-  background-color: #024e76;
-}
+
 
 /* Reach Out Style end */
 
