@@ -266,15 +266,13 @@ section {
   flex-wrap: wrap;
 }
 
-.contact-info h2 {
+.contact h2 {
   color: #fce138;
 }
 
 .contact-info a {
   color: #fce138;
 }
-
-
 
 .contact-info div {
   color: white;
@@ -312,6 +310,10 @@ section {
 
 .contact-info iframe {
   height: 400px;
+}
+
+#reach-out {
+  background-color: #024e76;
 }
 
 /* Reach Out Style end */
