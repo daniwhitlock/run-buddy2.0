@@ -249,6 +249,19 @@ section {
   display: flex;
 
 }
+/* service plans begin */
+.service-grid-container {
+  display: grid;
+}
+
+.service-grid-item {
+  width: 200px;
+  height: 50px;
+  background-color: orange;
+  border: solid;
+  color: black;
+}
+/* Service plans end */
 
 /* Reach Out style begin */
 .contact-info > * {
@@ -315,8 +328,6 @@ section {
 .contact-info iframe {
   height: 400px;
 }
-
-
 
 /* Reach Out Style end */
 
