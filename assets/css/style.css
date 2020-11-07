@@ -10,6 +10,7 @@
   --tertiary-color: #39a6b2;
 }
 
+
 body{
   
   color: var(--tertiary-color);
