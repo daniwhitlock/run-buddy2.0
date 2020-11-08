@@ -385,15 +385,14 @@ section {
 
 .trainer-bio h3 {
   font-size: 28px;
-  opacity:0;  
-  display: none;
+  display: none; 
 }
 
 .trainer-bio h4 {
   font-weight: lighter;
   font-size: 22px;
   margin-bottom: 15px;
-  display: none;
+  display: none; 
 }
 
 .trainer-bio p {
@@ -645,8 +644,9 @@ footer a {
   display: none;
 }  
 
-.trainer-bio h3 h4 { 
-  display:block;
+.trainer-bio h3, .trainer-bio h4 { 
+  display: block;
+  
 }
 
  .service-grid-container {
